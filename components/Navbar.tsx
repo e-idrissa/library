@@ -10,7 +10,7 @@ const Navbar = () => {
           <Image src="jsm-logo.svg" alt="logo" width={55} height={40} />
         </Link>
           <Image
-            src="hamburger-menubar.svg"
+            src="hamburger-menu.svg"
             alt="Hamburger menu"
             width={30}
             height={30}
