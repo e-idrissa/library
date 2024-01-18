@@ -1,6 +1,7 @@
 import React from 'react'
 
 import SearchForm from '@/components/SearchForm'
+import Filters from '@/components/Filters'
 
 type Props = {}
 
@@ -15,6 +16,7 @@ const Page = (props: Props) => {
         </div>
         <SearchForm />
       </section>
+      <Filters />
     </main>
   )
 }
