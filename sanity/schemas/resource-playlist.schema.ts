@@ -14,7 +14,7 @@ const schema = {
       title: 'Resources',
       type: 'array',
       of: [
-        { type: 'referrence', to: [{ type: 'resource' }] }
+        { type: 'reference', to: [{ type: 'resource' }] }
       ]
     }
   ]

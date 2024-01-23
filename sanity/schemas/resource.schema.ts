@@ -1,5 +1,3 @@
-import { title } from "process";
-
 const schema = {
   name: 'resource',
   title: 'Resources',
